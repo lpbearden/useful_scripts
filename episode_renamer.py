@@ -1,9 +1,9 @@
 import os
 import re
 
-path = 'F://Video/MKVs/Done/Season 03'
+path = 'F://Video/MKVs/Done/Season 04'
 files = os.listdir(path)
-myFileName = "Boardwalk Empire - S03E"
+myFileName = "Boardwalk Empire - S04E"
 
 print(files)
 regex = '\d*'
